@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/newwebsite/static/css/main.cd613684.chunk.css",
-    "main.js": "/newwebsite/static/js/main.a8012752.chunk.js",
-    "main.js.map": "/newwebsite/static/js/main.a8012752.chunk.js.map",
-    "runtime-main.js": "/newwebsite/static/js/runtime-main.7ea23fa3.js",
-    "runtime-main.js.map": "/newwebsite/static/js/runtime-main.7ea23fa3.js.map",
-    "static/js/2.05dc13dc.chunk.js": "/newwebsite/static/js/2.05dc13dc.chunk.js",
-    "static/js/2.05dc13dc.chunk.js.map": "/newwebsite/static/js/2.05dc13dc.chunk.js.map",
-    "index.html": "/newwebsite/index.html",
-    "static/css/main.cd613684.chunk.css.map": "/newwebsite/static/css/main.cd613684.chunk.css.map",
-    "static/js/2.05dc13dc.chunk.js.LICENSE.txt": "/newwebsite/static/js/2.05dc13dc.chunk.js.LICENSE.txt",
-    "static/media/instagram.b22808cf.png": "/newwebsite/static/media/instagram.b22808cf.png",
-    "static/media/linkedin.a5b21c73.png": "/newwebsite/static/media/linkedin.a5b21c73.png",
-    "static/media/maitri.9d4155ae.png": "/newwebsite/static/media/maitri.9d4155ae.png",
-    "static/media/twitter.c12aa5ab.png": "/newwebsite/static/media/twitter.c12aa5ab.png"
+    "main.css": "/static/css/main.cd613684.chunk.css",
+    "main.js": "/static/js/main.b9e161f5.chunk.js",
+    "main.js.map": "/static/js/main.b9e161f5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6818dfdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6818dfdb.js.map",
+    "static/js/2.05dc13dc.chunk.js": "/static/js/2.05dc13dc.chunk.js",
+    "static/js/2.05dc13dc.chunk.js.map": "/static/js/2.05dc13dc.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cd613684.chunk.css.map": "/static/css/main.cd613684.chunk.css.map",
+    "static/js/2.05dc13dc.chunk.js.LICENSE.txt": "/static/js/2.05dc13dc.chunk.js.LICENSE.txt",
+    "static/media/instagram.b22808cf.png": "/static/media/instagram.b22808cf.png",
+    "static/media/linkedin.a5b21c73.png": "/static/media/linkedin.a5b21c73.png",
+    "static/media/maitri.9d4155ae.png": "/static/media/maitri.9d4155ae.png",
+    "static/media/twitter.c12aa5ab.png": "/static/media/twitter.c12aa5ab.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7ea23fa3.js",
+    "static/js/runtime-main.6818dfdb.js",
     "static/js/2.05dc13dc.chunk.js",
     "static/css/main.cd613684.chunk.css",
-    "static/js/main.a8012752.chunk.js"
+    "static/js/main.b9e161f5.chunk.js"
   ]
 }
