@@ -1,0 +1,17 @@
+@import 'https://fonts.googleapis.com/css?family=Karla';
+
+.nav-style {
+    font-family: "Karla";
+    font-weight: 800;
+    color:black;
+    margin-left:75%;
+    margin-right:10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    font-size: medium;
+}
+
+li {
+    list-style-type: none;
+    float: right;
+}
